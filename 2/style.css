@@ -1,0 +1,9 @@
+.title {
+    width: 1000px;
+    height: 90px;
+    background-color: #ffffff;
+    border: 1px solid rosybrown;
+    border-left: none;
+    border-right: none;
+    /* border-bottom: none; */
+}
